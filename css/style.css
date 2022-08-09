@@ -260,13 +260,13 @@ main {
   display: none;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 768px) {
   .stats_box {
     padding: 0%;
   }
 
   .stats_box span {
-    gap: .2rem;
+    gap: .4rem;
   }
 
   .pokedex {
